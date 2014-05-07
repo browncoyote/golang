@@ -1,0 +1,691 @@
+
+ 	
+Country
+2013 Population
+(as of July 1, 2013)		Change/Yr (curr.)	
+	
+China
+		1,385,566,537		0.0061	
+	
+India
+1252139596		0.0124	
+	
+United States of America
+320050716		0.0081	
+	
+Indonesia
+249865631		0.0121	
+	
+Brazil
+200361925		0.0085	
+	
+Pakistan
+182142594		0.0166	
+	
+Nigeria
+173615345		0.0278	
+	
+Bangladesh
+156594962		0.0119	
+	
+Russian Federation
+142833689		-0.0021	
+	
+Japan
+127143577		-0.0008	
+	
+Mexico
+122,332,399		1.21%	
+	
+Philippines
+98,393,574		1.71%	
+	
+Ethiopia
+94,100,756		2.55%	
+	
+Viet Nam
+91,679,733		0.95%	
+	
+Germany
+82,726,626		-0.11%	
+	
+Egypt
+82,056,378		1.63%	
+	
+Iran (Islamic Republic of)
+77,447,168		1.30%	
+	
+Turkey
+74,932,641		1.22%	
+	
+Democratic Republic of the Congo
+67,513,677		2.72%	
+20	
+Thailand
+67,010,502		0.30%	
+21	
+France
+64,291,280		0.55%	
+22	
+United Kingdom
+63,136,265		0.57%	
+23	
+Italy328
+60,990,277		0.21%	
+24	
+Myanmar
+53,259,018		0.84%	
+25	
+South Africa
+52,776,130		0.78%	1
+26	
+Republic of Korea
+49,262,698		0.53%	
+United Republic of Tanzania
+49,253,126		3.02%	
+28	
+Colombia
+48,321,405		1.29%	
+29	
+Spain
+46,926,963		0.44%	
+30	
+Ukraine
+45,238,805		-0.62%	
+31	
+Kenya
+44,353,691		2.67%	
+32	
+Argentina
+41,446,246		0.86%	
+33	
+Algeria
+39,208,194		1.84%	
+34	
+Poland
+38,216,635		0.01%	
+35	
+Sudan
+37,964,306		2.11%
+36	
+Uganda
+37,578,876		3.33%	
+37	
+Canada
+35,181,704		1.00%	
+38	
+Iraq
+33,765,232		2.89%	
+39	
+Morocco
+33,008,150		1.41%	
+40	
+Afghanistan
+30,551,674		2.39%	
+41	
+Venezuela (Bolivarian Republic of)
+30,405,207		1.49%	
+42	
+Peru
+30,375,603		1.26%	
+Malaysia
+29,716,965		1.61%	
+44	
+Uzbekistan
+28,934,102		1.35%	
+45	
+Saudi Arabia
+28,828,870		1.85%	
+46	
+Nepal
+27,797,457		1.15%	
+47	
+Ghana
+25,904,598		2.13%	
+
+Mozambique
+25,833,752		2.47%	
+Dem. People s Republic of Korea
+24,895,480		0.53%	
+50	
+Yemen
+24,407,381		2.30%	
+51	
+Australia
+23,342,553		1.31%	
+52	
+Madagascar
+22,924,851		2.79%	
+53	
+Cameroon
+22,253,959		2.52%	
+54	
+Syrian Arab Republic
+21,898,061		0.67%	
+55	
+Romania
+21,698,585		-0.26%	
+56	
+Angola
+21,471,618		3.09%	
+57	
+Sri Lanka
+21,273,228		0.81%	
+58	
+Cote d Ivoire
+20,316,086		2.31%	
+59	
+Niger
+17,831,270		3.85%	
+60	
+Chile
+17,619,708		0.88%	
+61	
+Burkina Faso
+16,934,839		2.84%	
+62	
+Netherlands
+16,759,229		0.27%	
+Kazakhstan
+16,440,586		1.04%	
+64	
+Malawi
+16,362,567		2.85%	
+65	
+Ecuador
+15,737,878		1.57%	
+66	
+Guatemala
+15,468,203		2.51%	
+67	
+Mali
+15,301,650		3.01%	
+68	
+Cambodia
+15,135,169		1.75%	
+69	
+Zambia
+14,538,640		3.21%	
+70	
+Zimbabwe
+14,149,648		2.81%	
+71	
+Senegal
+14,133,280		2.90%	
+72	
+Chad
+12,825,314		2.98%	
+73	
+Rwanda
+11,776,522		2.74%	
+74	
+Guinea
+11,745,189		2.54%	
+South Sudan
+11,296,173		4.02%	
+Cuba
+11,265,629		-0.06%	
+77	
+Greece
+11,127,990		0.03%	
+78	
+Belgium
+11,104,476		0.44%	
+79	
+Tunisia
+10,996,515		1.10%	
+80	
+Czech Republic
+10,702,197		0.42%	
+81	
+Bolivia (Plurinational State of)
+10,671,200		1.64%	
+82	
+Portugal
+10,608,156		0.04%	
+83	
+Somalia
+10,495,583	2.87%	
+84	
+Dominican Republic
+10,403,761		1.23%	
+85	
+Benin
+10,323,474		2.69%	
+86	
+Haiti
+10,317,461		1.38%	
+87	
+Burundi
+10,162,532		3.16%	
+Hungary
+9,954,941		-0.21%	
+89	
+Sweden
+9,571,105		0.65%	
+Serbia
+9,510,506		-0.47%	
+Azerbaijan
+9,413,420		1.11%	
+92	
+Belarus
+9,356,678		-0.49%	
+93	
+United Arab Emirates
+9,346,129		2.52%	
+94	
+Austria
+8,495,145		0.37%	
+95	
+Tajikistan
+8,207,834		2.43%	
+96	
+Honduras
+8,097,688		2.00%	
+97	
+Switzerland
+8,077,833		1.02%	
+98	
+Israel
+7,733,144		1.30%	
+99	
+Papua New Guinea
+7,321,262		2.14%	
+100	
+Jordan
+7,273,799		3.50%	
+101	
+Bulgaria
+7,222,943		-0.76%	
+102	
+China, Hong Kong SAR
+7,203,836		0.74%	
+103	
+Togo
+6,816,982		2.57%	
+104	
+Paraguay
+6,802,295		1.70%	
+105	
+Lao People s Democratic Republic
+6,769,727		1.86%	
+106	
+El Salvador
+6,340,454		0.66%	
+107	
+Eritrea
+6,333,135		3.20%	
+108	
+Libya
+6,201,521		0.90%	
+109	
+Sierra Leone
+6,092,075		1.88%	
+110	
+Nicaragua
+6,080,478		1.44%	
+111	
+Denmark
+5,619,096		0.40%	
+112	
+Kyrgyzstan
+5,547,548		1.35%	
+113	
+Slovakia
+5,450,223		0.09%	
+114	
+Finland
+5,426,323		0.34%	
+115	
+Singapore
+5,411,737		2.02%	
+116	
+Turkmenistan
+5,240,072		1.27%	
+117	
+Norway
+5,042,671		1.00%	
+118	
+Costa Rica
+4,872,166		1.37%	
+119	
+Lebanon
+4,821,971		3.04%	
+120	
+Ireland
+4,627,173		1.13%	
+121	
+Central African Republic
+4,616,417		1.98%	
+122	
+New Zealand
+4,505,761		1.02%	
+123	
+Congo
+4,447,632		2.55%	
+124	
+Georgia
+4,340,895		-0.39%	
+125	
+State of Palestine
+4,326,295		2.51%	
+126	
+Liberia
+4,294,077		2.58%	
+127	
+Croatia
+4,289,714		-0.39%	
+128	
+Mauritania
+3,889,880		2.45%	
+129	
+Panama
+3,864,170		1.62%	
+130	
+Bosnia and Herzegovina
+3,829,307		-0.14%	
+131	
+Puerto Rico
+3,688,318	-0.16%	
+132	
+Oman
+3,632,444		7.89%	
+133	
+Republic of Moldova
+3,487,204		-0.78%	
+134	
+Uruguay
+3,407,062		0.34%	
+135	
+Kuwait
+3,368,572		3.61%	
+136	
+Albania
+3,173,271		0.30%	
+Lithuania
+3,016,933		-0.46%	
+138	
+Armenia
+2,976,566		0.18%	
+139	
+Mongolia
+2,839,073		1.49%	
+140	
+Jamaica
+2,783,888		0.52%	
+141	
+Namibia
+2,303,315		1.87%	
+142	
+Qatar
+2,168,673		5.90%	
+143	
+TFYR Macedonia
+2,107,158		0.07%	
+144	
+Lesotho
+2,074,465	1.08%	
+145	
+Slovenia
+2,071,997		0.24%	
+146	
+Latvia
+2,050,317		-0.57%	
+147	
+Botswana
+2,021,144		0.87%	
+148	
+Gambia
+1,849,285		3.18%	
+149	
+Guinea-Bissau
+1,704,255		2.39%	
+150	
+Gabon
+1,671,711		2.36%	
+151	
+Trinidad and Tobago
+1,341,151		0.28%	
+152	
+Bahrain
+1,332,171		1.66%	
+153	
+Estonia
+1,287,251		-0.28%	
+154	
+Swaziland
+1,249,514		1.49%	
+155	
+Mauritius
+1,244,403		0.37%	
+156	
+Cyprus
+1,141,166		1.08%	
+157	
+Timor-Leste
+1,132,879		1.66%	
+158	
+Fiji
+881,065		0.73%	
+159	
+Réunion
+875,375		1.16%	
+160	
+Djibouti
+872,932		1.52%	
+161	
+Guyana
+799,613		0.54%	
+162	
+Equatorial Guinea
+757,014		2.77%	
+163	
+Bhutan
+753,947		1.60%	
+164	
+Comoros
+734,917		2.40%	
+165	
+Montenegro
+621,383		0.05%	
+166	
+Western Sahara
+567,315		3.21%	
+167	
+China, Macao SAR
+566,375		1.78%	
+168	
+Solomon Islands
+561,231		2.09%	
+169	
+Suriname
+539,276		0.88%	
+170	
+Luxembourg
+530,380		1.35%	
+171	
+Cape Verde
+498,897		0.83%	
+172	
+Guadeloupe
+465,800		0.50%	
+173	
+Malta
+429,004		0.30%	
+174	
+Brunei Darussalam
+417,784		1.35%	
+175	
+Martinique
+403,682		0.24%	
+176	
+Bahamas
+377,374		1.45%	
+177	
+Maldives
+345,023		1.89%	
+178	
+Belize
+331,900		2.38%	
+179	
+Iceland
+329,535		1.14%	
+180	
+Barbados
+284,644		0.50%	
+181	
+French Polynesia
+276,831		1.07%	
+182	
+New Caledonia
+256,496		1.32%	
+183	
+Vanuatu
+252,763		2.21%	
+184	
+French Guiana
+249,227		2.48%	
+185	
+Mayotte
+222,152		2.71%	
+186	
+Sao Tome and Principe
+192,993		2.58%	
+187	
+Samoa
+190,372		0.76%	
+188	
+Saint Lucia
+182,273		0.83%	
+189	
+Guam
+165,124		1.27%	
+190	
+Channel Islands
+162,018		0.50%	
+191	
+Curaçao
+158,760		2.17%	
+192	
+Saint Vincent and the Grenadines
+109,373		0.01%	
+193	
+United States Virgin Islands
+106,627		0.10%	
+194	
+Grenada
+105,897		0.38%	
+195	
+Tonga
+105,323		0.43%	
+196	
+Micronesia (Fed. States of)
+103,549		0.16%	
+197	
+Aruba
+102,911		0.45%	
+198	
+Kiribati
+102,351		1.54%	
+199	
+Seychelles
+92,838		0.55%	
+200	
+Antigua and Barbuda
+89,985		1.03%	
+201	
+Isle of Man
+85,888		0.72%	
+202	
+Andorra
+79,218		0.77%	
+203	
+Dominica
+72,003		0.42%	
+204	
+Bermuda
+65,341		0.19%	
+205	
+Cayman Islands
+58,435		1.55%	
+206	
+Greenland
+56,987		0.26%	
+207	
+American Samoa
+55,165		-0.04%	
+208	
+Saint Kitts and Nevis
+54,191		1.12%	
+209	
+Northern Mariana Islands
+53,855		0.44%	
+210	
+Marshall Islands
+52,634		0.21%	
+211	
+Faeroe Islands
+49,469		-0.03%	
+212	
+Sint Maarten (Dutch part)
+45,233		1.97%	
+213	
+Monaco
+37,831		0.79%	
+214	
+Liechtenstein
+36,925		0.73%	
+215	
+Turks and Caicos Islands
+33,098		2.05%	
+216	
+San Marino
+31,448		0.60%	
+217	
+Gibraltar
+29,310		0.07%	
+218	
+British Virgin Islands
+28,341		1.13%	
+219	
+Palau
+20,918		0.79%	
+220	
+Cook Islands
+20,629		0.53%	
+221	
+Caribbean Netherlands
+19,130		2.44%		
+222	
+Anguilla
+14,300		1.19%	
+223	
+Wallis and Futuna Islands
+13,272		-0.62%	
+224	
+Nauru
+10,051		0.19%	
+225	
+Tuvalu
+9,876		0.18%	
+226	
+Saint Pierre and Miquelon
+6,043		0.01%	
+227	
+Montserrat
+5,091		0.88%	
+228	
+Saint Helena
+4,129		-0.57%	
+229	
+Falkland Islands (Malvinas)
+3,044		0.27%	
+230	
+Niue
+1,344		-2.85%	
+231	
+Tokelau
+1,195		1.93%	
+232	
+Vatican
+799		0.03%	
